@@ -1,3 +1,4 @@
+string uri
 string representation
 builtin_interfaces/Time start_time
 builtin_interfaces/Time end_time
